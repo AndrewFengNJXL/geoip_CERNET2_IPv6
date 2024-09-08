@@ -186,7 +186,7 @@
       "args": {
         "outputDir": "./output",
         "outputName": "geoip-only-cn-private.dat",
-        "wantedList": ["cn", "private"]
+        "wantedList": ["cn", "cn_ipv6", "private"]
       }
     },
     {
@@ -213,7 +213,7 @@
       "args": {
         "outputDir": "./output",
         "oneFilePerList": true,
-        "wantedList": ["cn", "private"]
+        "wantedList": ["cn", "cn_ipv6", "private"]
       }
     },
     {
