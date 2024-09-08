@@ -39,7 +39,7 @@
       "type": "text",
       "action": "add",
       "args": {
-        "name": "cn",
+        "name": "cn_ipv6",
         "uri": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt",
         "onlyIPType": "ipv6"
       }
