@@ -40,7 +40,7 @@
       "action": "add",
       "args": {
         "name": "cn_ipv6",
-        "uri": "https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt",
+        "uri": "https://ispip.clang.cn/all_cn_ipv6.txt",
         "onlyIPType": "ipv6"
       }
     },
