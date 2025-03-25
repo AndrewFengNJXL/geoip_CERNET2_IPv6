@@ -40,7 +40,7 @@
       "action": "add",
       "args": {
         "name": "cn_ipv6",
-        "uri": "https://ispip.clang.cn/all_cn_ipv6.txt",
+        "uri": "https://raw.githubusercontent.com/mayaxcn/china-ip-list/master/chnroute_v6.txt",
         "onlyIPType": "ipv6"
       }
     },
