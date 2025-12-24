@@ -186,6 +186,7 @@
       "args": {
         "outputDir": "./output",
         "outputName": "geoip.dat"
+        "wantedList": ["cn", "cn_ipv6", "private"]
       }
     },
     {
