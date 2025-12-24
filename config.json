@@ -241,6 +241,7 @@
         "sourceMMDBURI": "./output/GeoLite2-Country.mmdb",
         "overwriteList": [
           "cn",
+          "cn_ipv6",
           "cloudflare",
           "cloudfront",
           "facebook",
@@ -261,7 +262,7 @@
         "outputDir": "./output",
         "outputName": "Country-without-asn.mmdb",
         "sourceMMDBURI": "./output/GeoLite2-Country.mmdb",
-        "overwriteList": ["cn", "private"],
+        "overwriteList": ["cn", "cn_ipv6", "private"],
         "excludedList": [
           "cloudflare",
           "cloudfront",
@@ -282,7 +283,7 @@
         "outputDir": "./output",
         "outputName": "Country-only-cn-private.mmdb",
         "sourceMMDBURI": "./output/GeoLite2-Country.mmdb",
-        "wantedList": ["cn", "private"]
+        "wantedList": ["cn", "cn_ipv6", "private"]
       }
     },
     {
